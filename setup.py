@@ -16,7 +16,7 @@ setup(
     description='vantage6 ROR algorithm',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/anjavangestel/v6-ROR_algo-py',
+    url='https://github.com/anjavangestel/ROR_algo',
     packages=find_packages(),
     python_requires='>=3.6',
     install_requires=[
